@@ -1,0 +1,13 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Backup files
+*~
+
+# VS Code settings
+.vscode/
