@@ -5,7 +5,8 @@ Today, I start my **100 Days of Code Challenge**!
 I’ll code every day and post my progress here.
 
 ## 🗓 Progress
-- **Day 0:** Setup Git, GitHub repo, README.md, and Day 1 folder
+- **Day 0:** Setup Git, GitHub repo, README.md
+- **Day1:** Q1 (Sum of two numbers), Q2 (Sum, difference, product, quotient with safe division)
 
 ## 🎯 Goals
 - Improve coding skills 💻  
