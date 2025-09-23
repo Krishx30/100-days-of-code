@@ -1,17 +1,20 @@
 # 🚀 Krishna’s 100 Days of Code Challenge
 
 Hi! I’m Krishna, a B.Tech CSE student at UPES Dehradun.  
-Today, I start my **100 Days of Code Challenge**!  
-I’ll code every day and post my progress here.
-
-## 🗓 Progress
-- **Day 0:** Setup Git, GitHub repo, README.md
-- **Day1:** Q1 (Sum of two numbers), Q2 (Sum, difference, product, quotient with safe division)
+I’m doing this challenge to improve my coding skills and share my journey.
 
 ## 🎯 Goals
 - Improve coding skills 💻  
 - Stand out among peers 🔥  
-- Make my parents proud ❤️  
+- Make my parents proud ❤️
 
-## 📂 Projects
-- C programs (Day1 onwards)
+## 🗓 Progress (Days 1–10)
+- **Day1:** 
+  - Q1: Sum of two numbers (two inputs)
+  - Q2: Sum, difference, product, quotient (safe division, two inputs)
+
+## 🛠 Tools
+- VS Code  
+- GCC Compiler
+
+Good luck following my journey! 💪
