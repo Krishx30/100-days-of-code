@@ -15,6 +15,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day2:** 
   - Q3: Area and perimeter of a rectangle
   - Q4: Area and circumference of a circle
+- **Day3:** 
+  - Q5: Program to convert temperature from Celsius to Fahrenheit
+  - Q6: Program to swap two numbers using a third variable
+
 
 ## 🛠 Tools
 - VS Code  
