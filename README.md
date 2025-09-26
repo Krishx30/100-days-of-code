@@ -18,6 +18,9 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day3:** 
   - Q5: Program to convert temperature from Celsius to Fahrenheit
   - Q6: Program to swap two numbers using a third variable
+- **Day4:** 
+  - Q7: Program to swap two numbers without using a third variable
+  - Q8: Program to find and display the sum of the first n natural numbers
 
 
 ## 🛠 Tools
