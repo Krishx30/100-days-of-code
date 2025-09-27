@@ -21,6 +21,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day4:** 
   - Q7: Program to swap two numbers without using a third variable
   - Q8: Program to find and display the sum of the first n natural numbers
+- **Day5:** 
+  - Q9: Program to calculate simple and compound interest for given principal, rate, and time
+  - Q10: Program to input time in seconds and convert it to hours:minutes:seconds format
+
 
 
 ## 🛠 Tools
