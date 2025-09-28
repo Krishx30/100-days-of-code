@@ -24,6 +24,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day5:** 
   - Q9: Program to calculate simple and compound interest for given principal, rate, and time
   - Q10: Program to input time in seconds and convert it to hours:minutes:seconds format
+- **Day6:** 
+  - Q11: Program to check whether an integer is even or odd using if–else
+  - Q12: Program to check whether an integer is positive, negative, or zero using nested if–else
+
 
 
 
