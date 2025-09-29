@@ -27,6 +27,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day6:** 
   - Q11: Program to check whether an integer is even or odd using if–else
   - Q12: Program to check whether an integer is positive, negative, or zero using nested if–else
+- **Day7:** 
+  - Q13: Program to check whether a year is a leap year using conditional statements
+  - Q14: Program to check whether a character is a vowel or consonant using if–else
+
 
 
 
