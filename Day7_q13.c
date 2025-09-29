@@ -18,4 +18,3 @@ int main()
     }
     return 0;
 }
-//commit -m "Day7: Added Q13 (Leap Year) and Q14 (Vowel/Consonant), updated README"
