@@ -30,6 +30,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day7:** 
   - Q13: Program to check whether a year is a leap year using conditional statements
   - Q14: Program to check whether a character is a vowel or consonant using if–else
+- **Day8:** 
+  - Q15: Program to check whether a character is an uppercase alphabet, lowercase alphabet, digit, or special character
+  - Q16: Program to input three numbers and find the largest among them using if–else
+
 
 
 
