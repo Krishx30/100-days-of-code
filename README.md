@@ -33,6 +33,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day8:** 
   - Q15: Program to check whether a character is an uppercase alphabet, lowercase alphabet, digit, or special character
   - Q16: Program to input three numbers and find the largest among them using if–else
+- **Day9:** 
+  - Q17: Program to find the roots of a quadratic equation and categorize them (real distinct, real equal, or imaginary)
+  - Q18: Program to assign grades based on percentage using if–else
+
 
 
 
