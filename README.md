@@ -36,7 +36,9 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day9:** 
   - Q17: Program to find the roots of a quadratic equation and categorize them (real distinct, real equal, or imaginary)
   - Q18: Program to assign grades based on percentage using if–else
-
+- **Day10:** 
+  - Q19: Program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths
+  - Q20: Program to display the day of the week based on a number (1–7) using switch-case
 
 
 
