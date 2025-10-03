@@ -39,6 +39,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day10:** 
   - Q19: Program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths
   - Q20: Program to display the day of the week based on a number (1–7) using switch-case
+- **Day11:** 
+  - Q21: Program to display the month name and number of days using switch-case for a given month number
+  - Q22: Program to calculate profit or loss percentage based on cost price and selling price
+
 
 
 
