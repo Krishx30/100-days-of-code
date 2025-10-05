@@ -42,6 +42,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day11:** 
   - Q21: Program to display the month name and number of days using switch-case for a given month number
   - Q22: Program to calculate profit or loss percentage based on cost price and selling price
+- **Day12:** 
+  - Q23: Program to calculate library fine based on late days
+  - Q24: Program to calculate electricity bill based on units consumed
+
 
 
 
