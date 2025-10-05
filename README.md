@@ -45,6 +45,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day12:** 
   - Q23: Program to calculate library fine based on late days
   - Q24: Program to calculate electricity bill based on units consumed
+- **Day13:** 
+  - Q25: Program to implement a basic calculator using switch-case for +, -, *, /, %
+  - Q26: Program to print numbers from 1 to n using loops
+
 
 
 
