@@ -48,6 +48,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day13:** 
   - Q25: Program to implement a basic calculator using switch-case for +, -, *, /, %
   - Q26: Program to print numbers from 1 to n using loops
+- **Day 14**
+  - Q27: Program to print the sum of the first n odd numbers.
+  - Q28: Program to print the product of even numbers from 1 to n.
+
 
 
 
