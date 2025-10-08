@@ -54,6 +54,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 15**
   - Q29: Program to calculate the factorial of a number.
   - Q30: Program to reverse a given number.
+- **Day 16**
+  - Q31: Program to convert a given decimal number into its binary representation.
+  - Q32: Program to check whether a number is a palindrome.
+
 
 
 
