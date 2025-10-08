@@ -51,6 +51,9 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 14**
   - Q27: Program to print the sum of the first n odd numbers.
   - Q28: Program to print the product of even numbers from 1 to n.
+- **Day 15**
+  - Q29: Program to calculate the factorial of a number.
+  - Q30: Program to reverse a given number.
 
 
 
