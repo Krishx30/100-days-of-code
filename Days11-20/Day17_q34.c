@@ -29,5 +29,5 @@ int main()
 
     return 0;
 }
-//git commit -m "Day17: Added Q33 (Armstrong Number) and Q34 (Prime Number), updated README"
+
 
