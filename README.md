@@ -57,6 +57,9 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 16**
   - Q31: Program to convert a given decimal number into its binary representation.
   - Q32: Program to check whether a number is a palindrome.
+- **Day 17**
+  - Q33: Program to check if a number is an Armstrong number.
+  - Q34: Program to check if a number is prime.
 
 
 

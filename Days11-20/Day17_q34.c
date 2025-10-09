@@ -1,0 +1,33 @@
+// Write a program to check if a number is prime.
+#include <stdio.h>
+int main()
+{
+    int num, i, isPrime = 1;
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
+
+    if (num <= 1)
+    {
+        printf("%d is NOT a Prime Number\n", num);
+        return 0;
+    }
+
+    for (i = 2; i * i <= num; i++)
+    {
+        if (num % i == 0)
+        {
+            isPrime = 0;
+            break;
+        }
+    }
+
+    if (isPrime)
+        printf("%d is a Prime Number\n", num);
+    else
+        printf("%d is NOT a Prime Number\n", num);
+
+    return 0;
+}
+//git commit -m "Day17: Added Q33 (Armstrong Number) and Q34 (Prime Number), updated README"
+
