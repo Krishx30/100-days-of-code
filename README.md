@@ -63,6 +63,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 18**
   - Q35: Program to print all factors of a given number.
   - Q36: Program to find the HCF (GCD) of two numbers.
+- **Day 19**
+  - Q37: Program to find the LCM of two numbers.
+  - Q38: Program to find the sum of digits of a number.
+
 
 
 
