@@ -60,6 +60,9 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 17**
   - Q33: Program to check if a number is an Armstrong number.
   - Q34: Program to check if a number is prime.
+- **Day 18**
+  - Q35: Program to print all factors of a given number.
+  - Q36: Program to find the HCF (GCD) of two numbers.
 
 
 
