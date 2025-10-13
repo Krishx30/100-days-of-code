@@ -66,6 +66,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 19**
   - Q37: Program to find the LCM of two numbers.
   - Q38: Program to find the sum of digits of a number.
+- **Day 20**
+  - Q39: Program to find the product of odd digits of a number.
+  - Q40: Program to find the 1’s complement of a binary number.
+
 
 
 
