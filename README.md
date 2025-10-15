@@ -72,6 +72,9 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 21**
   - Q41: Program to swap the first and last digit of a number.
   - Q42: Program to check if a number is a perfect number.
+- **Day 22**
+  - Q43: Program to check if a number is a strong number.
+  - Q44: Program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
 
 
 
