@@ -69,6 +69,10 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 20**
   - Q39: Program to find the product of odd digits of a number.
   - Q40: Program to find the 1’s complement of a binary number.
+- **Day 21**
+  - Q41: Program to swap the first and last digit of a number.
+  - Q42: Program to check if a number is a perfect number.
+
 
 
 
