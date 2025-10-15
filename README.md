@@ -75,6 +75,15 @@ I’m doing this challenge to improve my coding skills and share my journey.
 - **Day 22**
   - Q43: Program to check if a number is a strong number.
   - Q44: Program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+- **Day 23**
+  - Q45: Program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + … up to n terms.
+  - Q46: Program to print the following pattern:
+    *****
+    *****
+    *****
+    *****
+    *****
+
 
 
 
